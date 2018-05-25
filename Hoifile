@@ -10,6 +10,6 @@
 name = "wmde_bericht2016"
 context = "dev"
 
-domain "wmde-bericht2016.dev" {
+domain "wmde-bericht2016.test" {
 	www = "drop"
 }
